@@ -1,2 +1,2 @@
 # au_dl_course
-homeworks for course on deep learning
+preparing homeworks for course on deep learning in SpbAU
