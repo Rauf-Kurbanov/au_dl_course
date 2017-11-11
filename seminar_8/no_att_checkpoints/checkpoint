@@ -1,0 +1,6 @@
+model_checkpoint_path: "simple-rnn-1240"
+all_model_checkpoint_paths: "simple-rnn-1200"
+all_model_checkpoint_paths: "simple-rnn-1210"
+all_model_checkpoint_paths: "simple-rnn-1220"
+all_model_checkpoint_paths: "simple-rnn-1230"
+all_model_checkpoint_paths: "simple-rnn-1240"

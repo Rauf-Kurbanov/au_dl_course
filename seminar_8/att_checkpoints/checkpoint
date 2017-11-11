@@ -1,0 +1,6 @@
+model_checkpoint_path: "simple-rnn-attention_final"
+all_model_checkpoint_paths: "simple-rnn-attention-1210"
+all_model_checkpoint_paths: "simple-rnn-attention-1220"
+all_model_checkpoint_paths: "simple-rnn-attention-1230"
+all_model_checkpoint_paths: "simple-rnn-attention-1240"
+all_model_checkpoint_paths: "simple-rnn-attention_final"
