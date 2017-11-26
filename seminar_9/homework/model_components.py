@@ -87,4 +87,4 @@ def task_specific_attention(inputs, output_size,
 
         outputs = tf.reduce_sum(weighted_projection, axis=1)
 
-        return outputs
+        return outputs, attention_weights
